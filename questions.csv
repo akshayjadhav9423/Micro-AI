@@ -1,0 +1,11 @@
+question,answer
+"What is Java?","Java is a high-level, object-oriented programming language."
+"What is Python?","Python is a high-level programming language known for its simple syntax."
+"What is HTML?","HTML is the standard markup language used to create web pages."
+"What is CSS?","CSS is used to style and format HTML web pages."
+"What is JavaScript?","JavaScript is a programming language used to create interactive web pages."
+"What is an array?","An array is a data structure used to store multiple values."
+"What is a class?","A class is a blueprint for creating objects."
+"What is an object?","An object is an instance of a class."
+"What is inheritance?","Inheritance allows one class to acquire properties and methods of another class."
+"What is polymorphism?","Polymorphism allows the same interface to represent different implementations."
